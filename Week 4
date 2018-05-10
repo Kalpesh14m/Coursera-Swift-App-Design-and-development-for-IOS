@@ -1,0 +1,19 @@
+1} Where do you define the interface of your watch app?
+==> In a storyboard of the watch app target
+
+2} Where does the watch app extension code run in watchOS 2?
+==> On the Apple Watch
+
+3} Which of the following navigation styles are supported in watchOS 2? (Choose all that apply)
+==> 
+— Page-based navigation
+— Hierarchical navigation
+
+4} Which of the following is true regarding watchOS 2 interfaces?
+==> You cannot create new interface elements in code
+
+5} When in the interface controller lifecycle should you put the code that loads data and populates the interface?
+==> Inside willActivate()
+
+6} Where should you put the app icon asset for the watch app?
+==> In the assets library of the watch app target

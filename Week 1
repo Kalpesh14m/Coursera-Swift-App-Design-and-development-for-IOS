@@ -1,0 +1,27 @@
+1} Which of the following are good use cases for a Scroll View? (Choose all that apply)
+==>
+— Displaying a long feed of posts
+— Displaying a large amount of text
+— Displaying a large photo
+— Displaying a long list of options
+
+2} How can you add a scrollview to your scene in a Storyboard? (Choose all that apply)
+==> 
+— Drag a UIScrollView object from the Object Library into your scene
+— Select one or more views and select Editor -> Embed In -> Scroll View
+
+3} Which of the following steps are needed in order to enable zooming in a scroll view? (Choose all that apply)
+==>
+— Set the delegate of the scroll view to an object.
+— Implement viewForZoomingInScrollView(_:) in the delegate object and return the view that should be zoomed.
+— Set appropriate Max & Min zoom scales on the scrollview.
+
+4} Which of the following are gesture recognizers that the system provides? (Choose all that apply)
+==>
+— Pinch gesture recognizer
+— Pan gesture recognizer
+— Long press gesture recognizer
+— Rotation gesture recognizer
+
+5} What is the responder chain?
+==> The chain of objects that should respond to events such as touches in the app

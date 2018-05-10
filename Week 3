@@ -1,0 +1,23 @@
+1} What is the definition of Persistent State? (Select 1 of the following.)
+==> Persistent State is data that can be restored after an app re-launches.
+
+2} What types can you store natively in NSUserDefaults? (Select all that apply.)
+==>
+— NSString
+— NSData
+— NSDate
+— NSArray
+
+3} Where are the NSUserDefaults values stored? (Select 1 answer.)
+==> In a file provided by the system.
+
+4} An NSURLSession is… (Select all that apply)
+==> A context for multiple network requests.
+
+5} For an object to be stored by NSKeyedArchiver it must… (Select all that apply)
+==>
+— Be a subclass of NSObject.
+— Comply with the NSCoding protocol.
+
+6} To make sure a Core Data inverse relationship is consistent, you must… (Select all that apply)
+==> Create an inverse relationship connection in the Data Model.

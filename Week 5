@@ -1,0 +1,16 @@
+1} How does a user navigate a tvOS app? (Select 1 answer.)
+==> By swiping and clicking the remote touchpad.
+
+2} How do you make a UIImageView indicate that it is focused? (Select 1 option.)
+==> By setting the ‘adjusts image when focused’ property to true.
+
+3} How do you add animations that follow the focus? (Select 1 answer.)
+==> Add an animation to the animationCoordinator in didUpdateFocusInContext.
+
+4} When the user navigates up/down/left/right on the screen, how does the system decide which next item to focus on? (Select 1 answer.)
+==> It searches for focusable views in the direction the user indicates.
+
+5} What are two ways to override how the focus engine selects the next view to focus (in response to user input)?
+==> 
+For a UICollectionView, override collectionView(:canFocusItemAtIndexPath:).
+Insert a Focus Guide in your view hierarchy.

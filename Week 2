@@ -1,0 +1,26 @@
+1} How do you add a segue between two view controllers in a storyboard?
+==> Hold Control and drag from one scene to another
+
+2} Which of the following is a good use case for a Navigation Controller? (Choose all that apply)
+==>
+— Displaying nested menus
+— Displaying a detail view of a post in a feed
+— Displaying a multiple-step form for users to fill out across a few screens
+
+3} How is the text of the back button on the navigation bar handled by the system?
+==> It displays the title of the previous view controller unless custom back text was set on the navigation item of the previous view controller.
+
+4} How do you trigger a segue? (Choose all that apply)
+==>
+— Assign an identifier to the segue and call performSegueWithIdentifier(_:) from the view controller
+— Connect the source of the segue to a button and tap the button to trigger the segue
+
+5} Which of the following is allowed in iOS and will not result in an error or crash? (Choose all that apply)
+==>
+— Presenting a navigation controller modally
+— Having a navigation controller as each tab of a tab bar controller
+— Pushing a tab bar controller onto a navigation controller
+— Presenting a tab bar controller modally
+
+6} What is a good use case for the tab view controller?
+==> Displaying view controllers that represent separate sections of the app the user can freely switch between.
